@@ -2,7 +2,7 @@
 
 ### Live Site: https://inventory-navy.vercel.app
 
-<!-- ### Backend Server: https://inventory-420.vercel.app -->
+
 
 ### Technologies
 
